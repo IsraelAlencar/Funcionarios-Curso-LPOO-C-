@@ -1,0 +1,14 @@
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.exe
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.deps.json
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.json
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.dev.json
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\israe\source\repos\Funcionario\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.AssemblyReference.cache
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfo.cs
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\israe\source\repos\Funcionario\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache
