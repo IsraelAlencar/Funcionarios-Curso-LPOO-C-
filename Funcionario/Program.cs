@@ -12,7 +12,7 @@ namespace Funcionario {
             List<Employee> employees = new List<Employee>();
 
             for (int i = 1; i <= n; i++) {
-                Console.WriteLine($"Employee #1 data:");
+                Console.WriteLine($"Employee #{i} data:");
 
                 Console.Write("Outsourced (y/n)? ");
                 string origin = Console.ReadLine();
